@@ -24,7 +24,7 @@ For visual assessment of the experiments results, we detailed display the visual
 
 To further prove the effectiveness of our method, we publish all the visual images in [here](https://drive.google.com/drive/folders/1fG1nQVqxlANfUNfIZMM1T6wf71uxgImn) or [Dropbox](https://www.dropbox.com/sh/0hsga3f3kamgn65/AACZcDlC5jKlAqA79An5eCOGa?dl=0).
 
-**##Reference**
+##Reference
 @article{LiangCZQC22,
   author       = {Hao Liang and
                   Zhiming Cheng and
