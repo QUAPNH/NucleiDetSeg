@@ -23,3 +23,21 @@ The dataset that we processed can be downloaded from [here](https://drive.google
 For visual assessment of the experiments results, we detailed display the visual results of six images of DSB and seven images of monuseg in the paper.
 
 To further prove the effectiveness of our method, we publish all the visual images in [here](https://drive.google.com/drive/folders/1fG1nQVqxlANfUNfIZMM1T6wf71uxgImn) or [Dropbox](https://www.dropbox.com/sh/0hsga3f3kamgn65/AACZcDlC5jKlAqA79An5eCOGa?dl=0).
+
+**##Reference**
+@article{LiangCZQC22,
+  author       = {Hao Liang and
+                  Zhiming Cheng and
+                  Haiqin Zhong and
+                  Aiping Qu and
+                  Lingna Chen},
+  title        = {A region-based convolutional network for nuclei detection and segmentation
+                  in microscopy images},
+  journal      = {Biomed. Signal Process. Control.},
+  volume       = {71},
+  number       = {Part},
+  pages        = {103276},
+  year         = {2022},
+  url          = {https://doi.org/10.1016/j.bspc.2021.103276},
+  doi          = {10.1016/j.bspc.2021.103276},
+}
